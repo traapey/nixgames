@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Minecraft Java Edition",
+    "pictureUrl": "https://i.imgur.com/dNaa9Y0.png",
+    "price": 149.9,
+    "newPrice": 69.9,
+    "bestSeller": true,
+    "category": "minecraft",
+    "features": [
+      "Minecraft Full Acesso Completo",
+      "Altere todas as informações",
+      "Sem banimentos em servidores",
+      "Escolhe o primeiro nick da conta",
+      "Conta nova e migrada para Microsoft",
+      "Apenas sua (Privada)"
+    ],
+    "paymentLinks": {
+      "pix": "https://mpago.la/1PSQvui",
+      "boleto": "https://mpago.la/2sFMQYU",
+      "cartao": "https://mpago.la/2CvwKLj",
+      "picpay": "https://picpay.me/nixgames/79.0"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Capa da Optifine",
+    "pictureUrl": "https://i.imgur.com/V3oI9q1.png",
+    "price": 49.9,
+    "newPrice": 33.9,
+    "bestSeller": false,
+    "category": "minecraft",
+    "features": [
+      "Acesso ao painel oficial da OptiFine",
+      "Altere-a para nickname que quiser",
+      "Personalize-a quando e como quiser",
+      "Visível para todos com OptiFine",
+      "Funcional em todas as versões",
+      "Compatível com servidores multiplayers"
+    ],
+    "paymentLinks": {
+      "pix": "https://mpago.la/1n9eP7F",
+      "boleto": "https://mpago.la/2odm5o3",
+      "cartao": "https://mpago.la/1425r2R",
+      "picpay": "https://picpay.me/nixgames/33.9"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Minecraft Java Edition + Capa da optifine",
+    "pictureUrl": "https://i.imgur.com/g45YuEX.png",
+    "price": 199.9,
+    "newPrice": 89.9,
+    "bestSeller": false,
+    "category": "minecraft",
+    "features": [
+      "Minecraft Full Acesso Completo + Capa da OptiFine",
+      "Apenas sua (Privada)",
+      "Acesso ao painel oficial da OptiFine",
+      "Acesso vitalício e sem Banimentos em servidores "
+    ],
+    "paymentLinks": {
+      "pix": "https://mpago.la/23dZ377",
+      "boleto": "https://mpago.la/2v8NPg4",
+      "cartao": "https://mpago.la/2ASY4w3",
+      "picpay": "https://picpay.me/nixgames/99.9"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Curso de PvP",
+    "pictureUrl": "https://images-ext-2.discordapp.net/external/WOkDwdiDKk602Ict4sqgkElGUtzeV9KAS-I7iHbDZU8/https/i.imgur.com/UzkynJs.png?width=471&height=514",
+    "price": 99.9,
+    "newPrice": 39.9,
+    "bestSeller": true,
+    "category": "pvp",
+    "features": [
+      "Aprimorar mira, ponte, clicks, movimentação, inteligência e etc... ",
+      "+ de 20 vídeos aulas pronta para assistir e melhorar seu pvp. ",
+      "2 aulas ao vivo por semana em call dentro de servidores de pvp",
+      "Feito pelo bayyo "
+    ],
+    "paymentLinks": {
+      "pix": "",
+      "boleto": "",
+      "cartao": "",
+      "picpay": ""
+    }
+  }
+]

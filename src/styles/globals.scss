@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#161819];
+  @apply text-white;
+}
+
+.dialog {
+  @apply flex flex-row justify-between px-9 bg-[#252728] text-xl font-medium w-[630px] py-4 rounded-2xl cursor-pointer items-center;
+}
+
+.dialog-text {
+  @apply bg-[#252728] -mt-8 p-4 rounded-2xl text-sm text-opacity-50 w-[630px];
+}
+
+.purple-badge {
+  @apply bg-[#7000FF] inline-block w-2 h-2 ml-1 mb-2 rounded-full;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 2px solid rgba(0, 0, 0, 0.37);
+  padding: 0;
+
+  margin: 24px 0 24px 0;
+}
+
+span {
+  box-sizing: content-box !important;
+}
+
+.payment-button {
+  @apply flex flex-row items-center justify-center p-4 bg-[#252728] rounded-[12px] font-bold gap-4 shadow-md;
+}
